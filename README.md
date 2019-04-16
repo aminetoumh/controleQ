@@ -1,2 +1,3 @@
 # controleQ
-new repository 1
+repository 1
+this is intro
